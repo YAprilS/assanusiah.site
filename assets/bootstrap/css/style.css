@@ -1,0 +1,75 @@
+section {
+  min-height: 500px;
+}
+
+.card a {
+  font-size: 10px;
+}
+
+hr {
+  width: 200px;
+  border: 5px tomato;
+}
+
+.jumbotron {
+	background-image: url('../img/ass.png');
+	background-size: cover;
+	background-position: 0 -90px;
+  background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  font-size: 40px;
+}
+
+.jumbotron h2 {
+  font-size: 30px;
+}
+
+.logo-ass {
+  width: 200px;
+  margin-top: 10px;
+}
+
+p {
+  text-indent: 50px;
+}
+
+.profil {
+  min-height: 400px;
+}
+
+textarea {
+  width: 100%;
+  height: 15%;
+}
+
+span {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.kiri {
+  float: right;
+}
+
+.berita p {
+  text-align: justify;
+}
+
+.berita img {
+  width: 70%;
+  padding-top: 50px;
+}
+
+.img-berita-populer {
+  width: 100%;
+}
+
+.daftar{
+  width: 100%;
+  height: 100%;
+}
+
